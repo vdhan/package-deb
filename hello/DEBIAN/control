@@ -1,0 +1,5 @@
+Package: hello
+Version: 1.0
+Maintainer: An Vu <anvudh@gmail.com>
+Architecture: all
+Description: Print "Hello Linux"
